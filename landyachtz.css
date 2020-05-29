@@ -1,0 +1,90 @@
+body {
+	background:white;
+	font-family: arial;
+	text-align : center;
+	margin: 0px;
+	
+}
+stock{
+	color : black;
+}
+
+#mainlogo {
+	height : 300px;
+	width : 1080px;
+}
+hr {
+	background: red;
+	height: 3px;
+	padding: 0px;
+}
+nav {
+	text-align : center;
+	background : white ;
+	font-size : 1.3em;
+}
+li {
+	list-style-type : none;
+	display: inline-block;
+	border : solid red;
+	
+}
+nav{
+	border-style: none
+}
+a {
+	text-align:center;
+}
+a:link{
+	
+	text-decoration: none;
+
+}
+
+li:hover{
+	font-weight: bold;
+	
+}	
+ul{
+	padding : 0;
+	
+}
+#side1{
+	height: 150px;
+	width:150px;
+	float : left;
+}
+
+}
+#presentation {
+	text-align : justify;
+
+}
+#review{
+	color : black;
+	text-align: center;
+}
+
+#contactus {
+	background-color : white;
+	border: 3px red dotted ;
+	
+}
+#stock {
+	color : red;
+}
+#findepage {
+	text-align : justify;
+}
+table{
+	height:60px;
+	width: 300px;
+	color: blue;
+	margin : auto;
+	border:1px solid black;
+}
+
+td{
+	text-align : left;
+}
+
