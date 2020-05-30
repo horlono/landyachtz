@@ -2,9 +2,14 @@
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
+  padding-right: 3px;
   border: 1px solid #ccc;
   border-radius: 4px;
   resize: vertical;
+}
+body{
+	margin-right : 800px;
+	
 }
 
 label {
@@ -31,7 +36,7 @@ p {
 }
 #forme {
   border-radius: 5px;
-  background-color: #f2f2f2;
+
   padding: 20px;
   padding-bottom : 1px;
 }
